@@ -1,0 +1,16 @@
+{
+  "name": "react-course-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DariAlves/react-course-2022.git",
+  "author": "Dari Alves <darieltondf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "concurrently": "^6.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
