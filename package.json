@@ -5,6 +5,9 @@
   "repository": "https://github.com/DariAlves/react-course-2022.git",
   "author": "Dari Alves <darieltondf@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.2"
